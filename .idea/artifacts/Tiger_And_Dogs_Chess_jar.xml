@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Tiger_And_Dogs_Chess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tiger_And_Dogs_Chess_jar</output-path>
+    <root id="archive" name="Tiger_And_Dogs_Chess_jar.jar">
+      <element id="archive" name="Tiger_And_Dogs_Chess.jar">
+        <element id="module-output" name="Tiger_And_Dogs_Chess" />
+      </element>
+      <element id="file-copy" path="D:/JavaApplication/JLayer1.0.1/jl1.0.1.jar" />
+    </root>
+  </artifact>
+</component>
